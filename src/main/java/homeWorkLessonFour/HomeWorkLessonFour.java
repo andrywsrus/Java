@@ -121,7 +121,6 @@ public class HomeWorkLessonFour {
                 break;
             }
 
-
             aiTern();
             printMap();
 
