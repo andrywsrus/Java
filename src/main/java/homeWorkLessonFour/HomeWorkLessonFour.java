@@ -226,6 +226,7 @@ public class HomeWorkLessonFour {
         map[rowNumber][columnNumber] = DOT_HUMAN;
         turnsCount++;
     }
+
 // проверка на ошибки
     private static int getValidNumberFromScanner() {
         while (true) {
