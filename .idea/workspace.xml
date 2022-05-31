@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b973cb-5658-4eb3-98a4-e8f74ea57765" name="Changes" comment="Домашнее задание, урок 5">
+    <list default="true" id="d6b973cb-5658-4eb3-98a4-e8f74ea57765" name="Changes" comment="Домашнее задание, урок 5 (ООП)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorkLessonFive/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonFive/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorkLessonFive/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonFive/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653998348333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Домашнее задание, урок 5 (ООП)">
+      <created>1653998698086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653998698086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ошибочно">
+      <created>1653998911774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653998911774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Домашнее задание, урок 5 (ООП)">
+      <created>1653998994468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653998994468</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +164,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Домашнее задание, урок 1" />
     <MESSAGE value="Домашнее задание, урок 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание, урок 5" />
+    <MESSAGE value="ошибочно" />
+    <MESSAGE value="Домашнее задание, урок 5 (ООП)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание, урок 5 (ООП)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java$homeWorkLessonFour_Main.ic" NAME="homeWorkLessonFour.Main Coverage Results" MODIFIED="1653554608969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
