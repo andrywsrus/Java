@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6b973cb-5658-4eb3-98a4-e8f74ea57765" name="Changes" comment="Домашнее задание, урок 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/oop/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/oop/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/oop/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/string/PrintPics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/string/StringCreateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/string/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/string/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/string/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonSeven/string/TestStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonEight/ApplicationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorkLessonEight/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homeWorkLessonSix" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,24 +42,37 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Документы/JAVA/projects/Java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/STPRO/IdeaProjects/Java/src/main/java/test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Console"
   }
-}</component>
-  <component name="RunManager" selected="Application.Test">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\STPRO\IdeaProjects\Java\src\main\java\test" />
+      <recent name="C:\Users\STPRO\IdeaProjects\Java\src\main\java\homeWorkLessonFive\ttt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\STPRO\IdeaProjects\Java\src\main\java\homeWorkLessonEight\Timofei" />
+      <recent name="C:\Users\STPRO\IdeaProjects\Java\src\main\java\homeWorkLessonEight" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.homeWorkLessonEight.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkLessonFive.Main" />
+      <option name="MAIN_CLASS_NAME" value="homeWorkLessonEight.calc.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorkLessonFive.*" />
+          <option name="PATTERN" value="homeWorkLessonEight.calc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintPics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.string.PrintPics" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkLessonEight.Timofei.Main2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson7.string.*" />
+          <option name="PATTERN" value="homeWorkLessonEight.Timofei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCreateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.string.StringCreateExample" />
+    <configuration name="homeWorkLessonEight.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkLessonEight.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson7.string.*" />
+          <option name="PATTERN" value="homeWorkLessonEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkLessonSeven.oop.Test" />
+    <configuration name="homeWorkLessonEight.Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorkLessonEight.Start" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorkLessonSeven.oop.*" />
+          <option name="PATTERN" value="homeWorkLessonEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWorkLessonSix.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorkLessonSix.Main" />
+    <configuration name="test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorkLessonSix.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StringCreateExample" />
-        <item itemvalue="Application.PrintPics" />
-        <item itemvalue="Application.homeWorkLessonSix.Main" />
+        <item itemvalue="Application.homeWorkLessonEight.Main" />
+        <item itemvalue="Application.test.Main" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.homeWorkLessonEight.Start" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +212,11 @@
           <line>34</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/homeWorkLessonEight/test/OperatorJButton.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -214,6 +225,10 @@
         <PinnedItemInfo parentTag="homeWorkLessonSix.Dog" memberName="Animals.countAnimals" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java$homeWorkLessonFour_Main.ic" NAME="homeWorkLessonFour.Main Coverage Results" MODIFIED="1653554608969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
